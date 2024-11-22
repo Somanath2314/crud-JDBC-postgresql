@@ -5,7 +5,7 @@ public class DemoJDBC {
         // Database connection details
         String url = "jdbc:postgresql://localhost:5432/DemoJDBC"; // JDBC URL of the database
         String user = "postgres"; // Database username
-        String pass = "2314"; // Database password
+        String pass = "****"; // Database password
 
         // Step 1: Load and register the PostgreSQL JDBC driver
         Class.forName("org.postgresql.Driver");
